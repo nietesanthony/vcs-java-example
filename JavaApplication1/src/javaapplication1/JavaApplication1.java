@@ -17,7 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("This program changed.");
+        System.out.println("This program changed again.");
         System.out.println("Added functionality.");
     }
     
